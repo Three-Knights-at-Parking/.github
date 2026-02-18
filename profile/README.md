@@ -47,5 +47,3 @@ Dieses Projekt dient als **Programmentwurf (Teil I)** und fokussiert sich auf:
 
 ---
 
-## Repository-Struktur
-
