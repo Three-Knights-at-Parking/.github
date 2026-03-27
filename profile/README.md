@@ -23,19 +23,6 @@ Die Simulation umfasst folgende zentrale Funktionalitäten:
 
 ---
 
-## Projektziele
-
-Dieses Projekt dient als **Programmentwurf (Teil I)** und fokussiert sich auf:
-
-1. **Entwurf und Strukturierung**: Entwicklung einer klaren Modulstruktur mit sinnvoller Aufteilung in Header- und Quelldateien
-2. **Datenstrukturen**: Definition geeigneter `struct`-Typen für Fahrzeuge, Parkhaus, Warteschlange und Statistiken
-3. **Funktionsprototypen**: Spezifikation aller benötigten Funktionen mit klaren Schnittstellen
-4. **Pseudocode**: Dokumentation der Algorithmen in strukturiertem Pseudocode
-5. **Flussdiagramme**: Grafische Darstellung der wichtigsten Programmabläufe
-6. **Dokumentation**: Umfassende Dokumentation von Designentscheidungen, Datenstrukturen und Algorithmen
-
----
-
 ## Technische Anforderungen
 
 - **Programmiersprache**: C (Standard: C99 oder höher)
