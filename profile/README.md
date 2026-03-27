@@ -2,7 +2,7 @@
 
 **Parkhaus-Simulation "Rauenegg" – Programmieren 1 (TSATSL25)**
 
-Willkommen beim Repository von **Three Knights at Parking**! Wir sind ein Team von Studierenden der DHBW Ravensburg (Studiengang Embedded Systems) und entwickeln im Rahmen des Kurses *Programmieren 1* eine diskrete Parkhaus-Simulation in der Programmiersprache C.
+Willkommen beim Repository von **Three Knights at Parking**! Wir sind ein Team von Studierenden der DHBW Ravensburg (Studiengang Embedded Systems) und entwickeln im Rahmen des Kurses *Programmieren 1* eine diskrete Parkhaus-Simulation in der Programmiersprache C. Das Projekt ist mittlerweile bereits abgegeben und mit einer 1.0 bewertet worden.
 
 ---
 
